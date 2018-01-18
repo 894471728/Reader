@@ -21,6 +21,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    
     _activity.hidesWhenStopped = YES;
     
 }
